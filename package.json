@@ -1,0 +1,19 @@
+{
+  "name": "provaweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^4.4.0",
+    "mongoose": "^8.3.0",
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
